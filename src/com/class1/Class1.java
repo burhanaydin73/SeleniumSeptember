@@ -20,6 +20,6 @@ public class Class1 {
 	
 		
 		//driver.findElement(By.name("login")).click();
-		driver.quit();
+		//driver.quit();
 }
 }
