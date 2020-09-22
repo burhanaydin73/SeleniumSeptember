@@ -13,7 +13,7 @@ public class Class1 {
 	 
 		
 		driver.get("https://www.monster.com/");
-		Thread.sleep(3000);
+		
 		driver.findElement(By.id("q2")).sendKeys("selenium");
 		
 		//driver.findElement(By.id("email")).sendKeys("eaglewing126@gmail.com");
